@@ -7,4 +7,4 @@ cmake \
    -H. \
    -G"NMake Makefiles" 
    
-cmake --build "build" --config "$RelWithDebInfo"
+cmake --build "build" --config "RelWithDebInfo"
